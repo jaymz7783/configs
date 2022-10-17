@@ -3,7 +3,10 @@ module.exports = {
     browser: true,
     node: true
   },
-  extends: ['next/core-web-vitals','eslint:recommended'],
+  extends: [
+    'plugin:@typescript-eslint/recommended',
+    'next/core-web-vitals'
+  ],
   root: true,
   rules: {
     'jest/no-mocks-import': 'off',
