@@ -1,7 +1,7 @@
 {
   "bracketSpacing": true,
-  "jsxBracketSameLine": false,
-  "jsxSingleQuote": false,
+  "jsxBracketSameLine": false, //React only
+  "jsxSingleQuote": false, //React only
   "semi": false,
   "singleQuote": true,
   "trailingComma": "none",
