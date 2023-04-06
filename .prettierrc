@@ -1,6 +1,5 @@
 {
   "bracketSpacing": true,
-  "jsxBracketSameLine": false, //React only
   "jsxSingleQuote": false, //React only
   "semi": false,
   "singleQuote": true,
